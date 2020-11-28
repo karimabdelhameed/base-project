@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Base Project</string>
+    <string name="try_again">Try again</string>
+    <string name="ok_">OK</string>
+    <string name="cancel_">Cancel</string>
+    <string name="no_internet_message">No internet connection!</string>
+    <string name="loading">Loading</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+
+</resources>
